@@ -1,0 +1,15 @@
+==================================================
+RELATÓRIO DE ANÁLISE DE DADOS
+==================================================
+Total de registros: 5
+Registros válidos: 2
+Registros inválidos: 3
+Percentual de aprovação: 40.00%
+
+REGISTROS INVÁLIDOS
+--------------------------------------------------
+Nome: João Santos | Problemas: e-mail inválido, telefone inválido
+Nome: Maria Oliveira | Problemas: CPF inválido
+Nome: Pedro Lima | Problemas: data inválida
+
+==================================================
